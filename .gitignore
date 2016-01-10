@@ -2,6 +2,12 @@
 # preceeding ! works
 # trailing / signifies entire directory
 # comments like this one and blank lines ignored
+#
+# compiled source code
+# compressed files and archives
+# logs and databases
+# operating systemm files
+# user uploaded assets
 
 tempfile.txt
 .DS_Store
